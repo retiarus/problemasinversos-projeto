@@ -1,3 +1,4 @@
 *.swp
 *.swo
 .ipynb*.ipynb
+.ipynb_checkpoints/*
